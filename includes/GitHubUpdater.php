@@ -3,7 +3,6 @@
 class GitHubUpdater
 {
     private $repo_url = 'https://api.github.com/repos/WP24Horas/meu-plugin-github';
-    private $zip_url = 'https://github.com/WP24Horas/meu-plugin-github/releases/download/1.0.2/meu-plugin-github.zip';
     private $version;
 
     private $plugin_file;

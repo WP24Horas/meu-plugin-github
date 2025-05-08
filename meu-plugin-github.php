@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Meu Plugin GitHub
  * Description: Plugin de exemplo para testar atualizações via GitHub.
- * Version: 1.0.3
+ * Version: 1.0.6
  * Author: Asllan Maciel
  */
 
